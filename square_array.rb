@@ -1,5 +1,5 @@
 def square_array(array)
-<<<<<<< HEAD
+# <<<<<<< HEAD
   new_array = []
 
  numbers = ["1","2","3"]
